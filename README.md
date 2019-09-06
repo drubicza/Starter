@@ -13,4 +13,4 @@ cd
 
 ls
 
-python2 v1.py
+python v1.py
